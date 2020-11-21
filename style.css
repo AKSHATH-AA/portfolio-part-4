@@ -1,0 +1,158 @@
+.line {
+    width: 100px;
+    border-bottom: 10px solid black;
+    margin: 15px auto;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#shadow {
+
+    margin-top: 100px;
+    border-radius: 50%;
+
+
+}
+
+#shadowdemargin-top: ion {
+    text-color: black;
+    font-size: 20px;
+
+}
+
+body {
+
+    text-align: center;
+
+    font-family: fantasy;
+    font-size: 20px;
+    width: ;
+
+}
+
+#Drawingsandwork {
+
+    background-color: purple;
+    color: black;
+
+}
+
+#Favoritecharacter {
+
+    text-align: center;
+    background-image: linear-gradient(#000000 25%, #FF0000 100%);
+    background-repeat: no repeat;
+
+    font-size: 20px;
+}
+
+#CharacterReview {
+    text-align: center;
+    background-image: linear-gradient(red 25%, brown 100%);
+    background-repeat: no repeat;
+
+    font-size: 20px;
+}
+
+
+#sega {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+#sega:hover {
+    transform: scale(0.9);
+}
+
+#Inspiration {
+    text-align: center;
+    background-image: linear-gradient(purple 25%, black 100%);
+    background-repeat: no repeat;
+
+    font-size: 20px;
+}
+
+img {
+
+    border-style: solid;
+    border-width: 25px;
+    border-color: red;
+    height: 400px;
+    width: 500px;
+}
+
+#About {
+
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    background-image: linear-gradient(#ffa500 25%, #ffff00 100%);
+    height: 200px;
+}
+
+.inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ul {
+    list-style: none;
+    z-index: 10;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: grabbing;
+}
+
+.listitem {
+    float: left;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    color: silver;
+    font-size: 20px;
+    font-family: fantasy;
+
+}
+
+.listitem:hover {
+
+    background-color: black;
+    font-size: 40px;
+
+}
+
+
+html {
+
+    scroll-behavior: smooth;
+}
+
+.articles:hover {
+    color: black;
+
+
+
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+
+
+
+
+}
